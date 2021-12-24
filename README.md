@@ -1,5 +1,5 @@
 # Creating an Interactive Excel Dashboards for Business Analytics
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Creating an Interactive Excel Dashboards for Business Analytics](hhttps://www.tertiarycourses.com.sg/excel-dashboards-business-analytics.html) course. 
 
